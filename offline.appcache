@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1553930200
+#1553960522
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -14,11 +14,18 @@ images/barrier-sheet0.png
 images/bg-sheet0.png
 images/up-sheet0.png
 images/down-sheet0.png
+images/subico-sheet0.png
+images/flag-sheet0.png
+images/register_button-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
+c2mp-net.js
+c2mp-peer.js
+c2mp.js
+waker.js
 NETWORK:
 *
